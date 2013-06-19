@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link type="text/css" rel="stylesheet" href="./style.css" />
+	<meta name="keywords" content="James Chuong, blog, programming, games" /> 
+	<meta description="James Chuong's wobsite for blags and fun goodies." />
+	<title>
+		.:James:.
+	</title>
+	<script type="text/javascript" src="./script.js"> </script>
+</head>
+
+<body>
+	<script type='text/javascript'>
+    $(function() {
+        $("#tweets").tweet({
+            username: "sunhay",
+            avatar_size: null,
+            count: 5,
+            join_text: " - ",
+            loading_text: "Loading tweets..."
+        });
+    });
+    </script>
+	<div id="main_page"> 
+	
+		<div id="header">
+			<img id="banner" src="horizon.jpg" />
+			<h1>Website in the Middle of Nowhere</h1>
+		</div>
+
+		<div id="links">
+			<ul>
+				<li> <a href="./wordpress"> Blog </a></li>
+				<li> <a href="./projects"> Projects </a></li>
+				<li> <a href="http://www.github.com/jchuong"> Github </a></li>
+			</ul>
+		</div>
+
+		<div id="main_body">
+			<div id="recent_posts">
+				<h2> Recent Posts </h2>
+			</div>
+		
+			<div id="recent_tweets">
+				<h2> Recent Tweets </h2>
+				<div id="tweets">
+				</div>
+			</div>
+			
+			<br>
+			<hr>
+
+			<div id="about_me">
+				<h2> About Me </h2>
+				<p> I'm not the type of person who likes to describe themselves.  However, I can tell you that I have a variety of interests that are standard to the stereotypical Computer Science student.  I love technology in general, you know, like computers and stuff.  I highly value computer peripherals as part of my computing experience.  Video games are awesome, especially (somewhat) difficult and competitive ones. Programming is also pretty cool.  Check out my profiles and you might see more of the same description of me. Enjoy!</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

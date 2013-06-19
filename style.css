@@ -1,0 +1,78 @@
+#banner {
+	border: 1px solid black;
+	height: 230px;
+	width: 625px;
+	margin: auto;
+}
+
+
+#main_page {
+	width: 625px;
+	margin: auto;
+}
+
+#header h1 {
+	font-family: sans-serif;
+	font-size: 2em;
+	margin-top: 0;
+	text-align: center;
+}
+
+#links {
+	margin-bottom: 15px;
+}
+
+#links ul {
+	list-style-type: none;
+	margin: 0;
+	padding-left: 0;
+}
+
+#links ul li {
+	display: inline;
+	font-family: sans-serif;
+}
+
+#links ul li a {
+	display:inline-block;
+	margin:0 0 0 1px;
+	padding:3px 10px;
+	text-align:center;
+	background:#666666;
+	color:white;
+	text-decoration:none;
+	position:relative;
+	line-height:1.3em
+}
+
+#links ul li a:hover {
+	color: #75c3cc;
+}
+
+#about_me {
+	clear: both;
+}
+
+#about_me h2 {
+	font-family: sans-serif;
+}
+
+#about_me p {
+	font-family: sans-serif;
+}
+
+#recent_posts {
+	height: 400px;
+	width: 49%;
+	border-right: 1px solid black;
+	float: left;
+}
+
+#recent_tweets {
+	width: 50%;
+	float: right;
+}
+
+#main_body hr, br {
+	clear: both;
+}
