@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: .:James->Blog():.
 ---
-
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h1>Recent Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% for post in site.posts limit:5 %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <span>{{ post.date | date_to_string }}</span> </li>
     {% endfor %}
   </ul>
+  <h1>Recent Tweets</h1>
+  
+  <h1>About</h1>
+  <p>Techie, dreamer, wannabe everything. I am a computer science student who likes typical computer science things. I consume technology every moment of my life. Alone here in my final sanctuary, you are invited to read through my thoughts, hopes and dreams before you find out you have wasted your time.</p>  
 </div>
