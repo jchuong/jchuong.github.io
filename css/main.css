@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 1.5em, Helvetica, Arial, sans-serif;
+  font: 1.5em Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -25,11 +25,9 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   margin-bottom: 1em; 
-  font: 1.5em, Helvetica, Arial, sans-serif;
 }
 
 p { margin: 1em 0;
-  font: 1.5em, Helvetica, Arial, sans-serif;
 }
 
 a         { color: #00a; }
@@ -80,7 +78,7 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font: 2em, Helvetica, Arial, sans-serif;
+  font: 1.3em Helvetica, Arial, sans-serif;
   text-align: justify;
   width: 630px;
   margin: 3em auto 2em;
@@ -108,6 +106,7 @@ ul.posts span {
 }
 
 .site .header a.extra {
+  font-size: 1.3em;
   color: #aaa;
   margin-left: 1em;
 }
