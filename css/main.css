@@ -192,6 +192,11 @@ ul.posts span {
   background-color: #333;
 }
 
+.post p {
+  font: 1.5em Helvetica, Arial, sans-serif;
+  text-align: justify;
+}
+
 /**
  *	Tweets
  */
