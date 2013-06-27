@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
+<h2>{{ page.title }}</h2>
 <p class="tags">Tags: 
 	{% for tag in page.tags %}
 		{{ tag }} 
-	{% end for %} </p>
+	{% endfor %} </p>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
