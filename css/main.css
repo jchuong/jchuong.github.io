@@ -146,6 +146,14 @@ ul.posts span {
   border: 0;
 }
 
+/*
+ *  Tags css
+ */
+ .site .tags p {
+   font: 0.8em, sans-serif;
+   color: blue;
+ }
+
 /*****************************************************************************/
 /*
 /* Posts
