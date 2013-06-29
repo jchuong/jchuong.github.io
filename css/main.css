@@ -97,7 +97,7 @@ ul.posts span {
 }
 
 .site .header h1.title a {
-  font-size: 2em;
+  font-size: 1.8em;
   color: #8085C1;
 }
 
@@ -116,6 +116,7 @@ ul.posts span {
 }
 
 .site .meta {
+  font-size: 0.7em;
   color: #aaa;
 }
 
@@ -151,6 +152,9 @@ ul.posts span {
  */
 .tags {
    font: 0.7em sans-serif;
+ }
+
+ .tags a {
    color: #8085C1;
  }
 
@@ -193,12 +197,14 @@ ul.posts span {
 }
 
 .post p {
-  font: 1.2em Helvetica, Arial, sans-serif;
+  font: 1em Helvetica, Arial, sans-serif;
   text-align: justify;
+  color: #303030;
+  clear: left;
 }
 
 .site h2 {
-  font: 1.2em Helvetica, Arial, sans-serif;
+  font: 1.4em Helvetica, Arial, sans-serif;
   color: #3d3d3d;
 }
 
