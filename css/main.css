@@ -158,6 +158,44 @@ ul.posts span {
    color: #8085C1;
  }
 
+/*
+ * Navbar CSS
+ */
+
+.container #navbar {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	background: #404040;
+}
+
+.container #navbar ul {
+	list-style-type: none;
+	font-family: sans-serif;
+	font-size: 1.3em;
+	text-align: center;
+}
+
+.container #navbar li {
+	display: inline;
+}
+
+.container #navbar li a {
+	display: inline-block;
+	width: 100px;
+  margin: 0;
+	padding: 3px 10px;
+	text-align: center;
+	text-decoration: none;
+	color: #dddddd;
+	background: #404040;
+}
+
+.container #navbar li a:hover {
+  color: #404040;
+	background: #ab82ff;
+}
 /*****************************************************************************/
 /*
 /* Posts
