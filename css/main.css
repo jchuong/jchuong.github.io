@@ -78,9 +78,10 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font: 1.3em Helvetica, Arial, sans-serif;
+  font: 1.4em Helvetica, Arial, sans-serif;
   text-align: justify;
-  width: 630px;
+  width: 70%;
+	max-width: 800px;
   margin: 3em auto 2em;
   margin-top: 0.5em;
   line-height: 1.5em;
@@ -235,10 +236,10 @@ ul.posts span {
 }
 
 .post p {
-  font: 1em Helvetica, Arial, sans-serif;
+  font: 1.1em serif, Helvetica, Arial, sans-serif;
   text-align: justify;
   color: #303030;
-  clear: left;
+	line-height: 1.5em;
 }
 
 .site h2 {
