@@ -50,7 +50,7 @@ ul.posts {
 }
 
 ul.posts li {
-  line-height: 1.75em;
+  line-height: 1.5em;
 }
 
 ul.posts li a:link {
@@ -62,13 +62,13 @@ ul.posts li a:visited {
 }
 
 ul.posts li a:hover {
-  color: #8085C1;
+  color: #435175;
 }
 
 ul.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
+  color: #777;
+  font-family: monospace;
+  font-size: 1em;
 }
 
 /*****************************************************************************/
@@ -93,32 +93,27 @@ ul.posts span {
 }
 
 .site .header h1.title {
-  display: inline-block;
   margin-bottom: 2em;
 }
 
 .site .header h1.title a {
   font-size: 1.8em;
-  color: #8085C1;
+  color: #404040;
 }
 
 .site .header h1.title a:hover {
-  color: #aaa;
+	color: #404040;
+	text-decoration: underline;
 }
 
-.site .header a.extra {
-  font-size: 1.3em;
-  color: #aaa;
-  margin-left: 1em;
-}
-
-.site .header a.extra:hover {
-  color: #8085C1;
+.site .header img {
+	max-width: 100%;
 }
 
 .site .meta {
   font-size: 0.7em;
   color: #999;
+	line-height: 0.7em;
 }
 
 .site .footer {
@@ -153,11 +148,15 @@ ul.posts span {
  */
 .tags {
    font: 0.7em sans-serif;
- }
+}
 
- .tags a {
-   color: #8085C1;
- }
+.tags a {
+  color: #707070;
+}
+
+.tags a:visited {
+	color: #707070;
+}
 
 /*
  * Navbar CSS
@@ -243,8 +242,9 @@ ul.posts span {
 }
 
 .site h2 {
-  font: 1.4em Helvetica, Arial, sans-serif;
-  color: #3d3d3d;
+  font: 1.5em serif, Helvetica, Arial, sans-serif;
+	font-weight: bold;
+  color: #404040;
 }
 
 /**

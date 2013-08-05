@@ -29,19 +29,10 @@
     <body>
 
         <div class="container">
-       		<div id="navbar">
-						<ul>
-							<li><a href="/">Home</a></li>
-								<li><a href="/archive">Archive</a></li>
-								<li><a href="http://www.github.com/jchuong">Github</a></li>
-							</ul>
-					</div>
-
-					<div class="site">
+       		<div class="site">
             <div class="header">
-			  			<img src="/horizon.jpg" />
+			  			<a href="/"><img src="/horizon.jpg" /></a>
               <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-			  			<a class="extra" href="/archive">archive</a>
             </div>
 
 					  {{ content }}
@@ -61,6 +52,14 @@
               </div>
             </div>
           </div>
+
+					<div id="navbar">
+						<ul>
+							<li><a href="/">Home</a></li>
+								<li><a href="/archive">Archive</a></li>
+								<li><a href="http://www.github.com/jchuong">Github</a></li>
+							</ul>
+					</div>
         </div> <!-- /container -->
 
     </body>
