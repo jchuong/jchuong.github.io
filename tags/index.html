@@ -4,5 +4,7 @@ layout: default
 <h2>All Available Tags</h2>
 
 <div id="tag-cloud">
-  {{ site | tag_cloud }}
+	{% for tag in site.tags %}
+		<a href="/tags/{{ tag }}">{{ tag}}</a>
+	{% endfor %}
 </div>

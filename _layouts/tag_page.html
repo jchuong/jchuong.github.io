@@ -7,8 +7,3 @@ layout: default
     <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo <span>({{ post.date | date_to_string }} | Tags: {{ post | tags }})</span></li>
   {% endfor %}
 </ul>
-
-<div id="tag-cloud">
-	<a class=set-5 href="../tags.html">All Tags</a>
-  {{ site | tag_cloud }}
-</div>
