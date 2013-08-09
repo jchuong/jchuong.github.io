@@ -54,7 +54,7 @@ ul.posts li {
 }
 
 ul.posts li a:link {
-  color: #822;
+  color: #303030;
 }
 
 ul.posts li a:visited {
@@ -322,7 +322,7 @@ ul.posts span {
  * Tag cloud links
  */
 #tag-cloud a.set-5 {
-  color: #822;
+  color: #303030;
 }
 
 #tag-cloud a:visited {
