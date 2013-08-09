@@ -5,6 +5,6 @@ layout: default
 
 <div id="tag-cloud">
 	{% for tag in site.tags %}
-		<a href="/tags/{{ tag }}">{{ tag}}</a>
+		<a href="/tag/{{ tag | first }}.html">{{ tag | first}}</a>
 	{% endfor %}
 </div>
