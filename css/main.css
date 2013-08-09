@@ -317,3 +317,19 @@ ul.posts span {
 	margin-left: 10px;
 	display: none;
 }
+
+/*
+ * Tag cloud links
+ */
+#tag-cloud a.set-5 {
+  color: #822;
+}
+
+#tag-cloud a:visited {
+  color: #303030;
+}
+
+#tag-cloud .set-5:hover {
+  color: #435175;
+}
+
