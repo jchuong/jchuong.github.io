@@ -27,7 +27,9 @@ h1 {
   margin-bottom: 1em; 
 }
 
-p { margin: 1em 0;
+p
+{
+	margin: 1em 0;
 }
 
 a         { color: #00a; }
@@ -71,6 +73,14 @@ ul.posts span {
   font-size: 1em;
 }
 
+#home h1 {
+  font: 1.5em serif, Helvetica, Arial, sans-serif;
+  color: #404040;
+}
+
+#home p {
+	font: 1em serif;
+}
 /*****************************************************************************/
 /*
 /* Site
@@ -97,7 +107,8 @@ ul.posts span {
 }
 
 .site .header h1.title a {
-  font-size: 1.8em;
+  font: 1.8em serif, Helvetica, Arial, sans-serif;
+	font-weight: bold;
   color: #404040;
 }
 
@@ -243,7 +254,6 @@ ul.posts span {
 
 .site h2 {
   font: 1.5em serif, Helvetica, Arial, sans-serif;
-	font-weight: bold;
   color: #404040;
 }
 
@@ -251,7 +261,7 @@ ul.posts span {
  *	Tweets
  */
 #tweets p, a {
-  font-size:0.8em;
+  font-size: 0.8em;
 	line-height: 1.3em;
 	margin: 0;
   padding-right: 5px;
@@ -317,19 +327,3 @@ ul.posts span {
 	margin-left: 10px;
 	display: none;
 }
-
-/*
- * Tag cloud links
- */
-#tag-cloud a.set-5 {
-  color: #303030;
-}
-
-#tag-cloud a:visited {
-  color: #303030;
-}
-
-#tag-cloud .set-5:hover {
-  color: #435175;
-}
-
