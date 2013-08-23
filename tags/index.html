@@ -2,10 +2,15 @@
 layout: default
 title: Tags
 ---
-<h2>All Available Tags</h2>
-
-<div id="tag-cloud">
-	{% for tag in site.tags %}
-		<a href="/tags/{{ tag | first }}.html">{{ tag | first}}</a>
-	{% endfor %}
-</div>
+<h2>Archive of Posts by Tag</h2>
+{% for tag in site.tags %}
+	<h3>{{ tag | first }}</h3>
+	{% for post in tag[1] %}
+		<ul class=posts>
+			<li><a href="{{ post.url }}">{{ post.title }}</a> &raquo <span>{{ post.date | date_to_string }} | Tags: 
+				{% for post_tag in post.tags %}
+					{{ post_tag }} 
+				{% endfor %}</span></li>
+  {% endfor %}
+{% endfor %}
+</ul>

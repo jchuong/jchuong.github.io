@@ -4,7 +4,7 @@ title: Archives
 ---
 
 <div>
-  <h1>Archive of Blog Posts</h1>
+	<h2>Chronological Archive of Blog Posts</h2>
   <ul class="posts">
     {% for post in site.posts limit:5 %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> &raquo; <span>{{ post.date | date_to_string }}</span> </li>
