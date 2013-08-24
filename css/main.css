@@ -121,6 +121,12 @@ ul.posts span {
 	max-width: 100%;
 }
 
+@media (max-width: 640px)
+{
+	.site .header img {
+		display: none;
+	}
+}
 .site .meta {
   font-size: 0.7em;
   color: #999;
@@ -207,6 +213,13 @@ ul.posts span {
   color: #404040;
 	background: #dddddd;
 }
+
+@media (max-width: 640px)
+{
+	.container #navbar {
+		display: none;
+	}
+}
 /*****************************************************************************/
 /*
 /* Posts
@@ -260,12 +273,19 @@ ul.posts span {
 /**
  *	Tweets
  */
-#tweets p, a {
+#tweets .tweet {
   font-size: 0.8em;
 	line-height: 1.3em;
 	margin: 0;
   padding-right: 5px;
   color: #3d3d3d;
+}
+
+#tweets .tweet a {
+  font-size: 0.8em;
+	line-height: 1.3em;
+	margin: 0;
+  padding-right: 5px;
 }
 
 #tweets a, a:visited {
@@ -288,39 +308,16 @@ ul.posts span {
   background-color: #f0f3fb;
 }
 
-.user, .tweet, .timePosted {
-  float: left;
-}
-
-.user {
-  width: 10%;
-}
-
-.tweet {
-  width: 88%;
-}
-
 .timePosted {
+	font-size: 0.7em !important;
 	clear: left;
-	padding-left: 10%
+	float: right;
+	color: #707070;
 }
 
-.user {
-	clear: left;
-}
-
-.user a {
-	width: 100px;
-}
-
-.user span span {
-	width: 100px;
-	display: block;
-	margin-top: 10px;
-}
-
-.user img, .user a > span {
+.user, .user img, .user a > span {
 	float: left;
+	display: inline-block;
 }
 
 .user a > span {
