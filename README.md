@@ -1,3 +1,3 @@
 Requires
-*Ruby
-*Jekyll
+* Ruby
+* Jekyll
