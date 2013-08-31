@@ -3,7 +3,6 @@
 /* Common
 /*
 /*****************************************************************************/
-<link href='http://fonts.googleapis.com/css?family=Ledger' rel='stylesheet' type='text/css'>
 /* Global Reset */
 * {
   margin: 0;
@@ -14,7 +13,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 1.5em Helvetica, Arial, sans-serif;
+  font: 1.5em 'Open Sans', sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -74,7 +73,7 @@ ul.posts span {
 }
 
 #home h1 {
-  font: 1.5em 'Ledger', serif, Helvetica, Arial, sans-serif;
+  font: 1.5em 'Ledger', serif;
   color: #404040;
 }
 
@@ -88,7 +87,7 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
-  font: 1.4em Helvetica, Arial, sans-serif;
+  font: 1.4em 'Open Sans', sans-serif;
   text-align: justify;
   width: 70%;
 	max-width: 800px;
@@ -107,7 +106,7 @@ ul.posts span {
 }
 
 .site .header h1.title a {
-  font: 1.8em 'Ledger', serif, Helvetica, Arial, sans-serif;
+  font: 1.8em 'Ledger', serif;
 	font-weight: bold;
   color: #404040;
 }
@@ -164,7 +163,7 @@ ul.posts span {
  *  Tags css
  */
 .tags {
-   font: 0.7em sans-serif;
+   font: 0.7em 'Open Sans', sans-serif;
 }
 
 .tags a {
@@ -189,7 +188,7 @@ ul.posts span {
 
 .container #navbar ul {
 	list-style-type: none;
-	font-family: sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 1.3em;
 	text-align: center;
 }
@@ -259,14 +258,14 @@ ul.posts span {
 }
 
 .post p {
-  font: 1.1em 'Ledger', serif, Helvetica, Arial, sans-serif;
+  font: 1.1em 'Ledger', serif;
   text-align: justify;
   color: #303030;
 	line-height: 1.5em;
 }
 
 .site h2 {
-  font: 1.5em 'Ledger', serif, Helvetica, Arial, sans-serif;
+  font: 1.5em 'Ledger', serif;
   color: #404040;
 }
 
