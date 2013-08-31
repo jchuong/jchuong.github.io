@@ -3,7 +3,7 @@
 /* Common
 /*
 /*****************************************************************************/
-
+<link href='http://fonts.googleapis.com/css?family=Ledger' rel='stylesheet' type='text/css'>
 /* Global Reset */
 * {
   margin: 0;
@@ -74,12 +74,12 @@ ul.posts span {
 }
 
 #home h1 {
-  font: 1.5em serif, Helvetica, Arial, sans-serif;
+  font: 1.5em 'Ledger', serif, Helvetica, Arial, sans-serif;
   color: #404040;
 }
 
 #home p {
-	font: 1em serif;
+	font: 1em 'Ledger', serif;
 }
 /*****************************************************************************/
 /*
@@ -107,7 +107,7 @@ ul.posts span {
 }
 
 .site .header h1.title a {
-  font: 1.8em serif, Helvetica, Arial, sans-serif;
+  font: 1.8em 'Ledger', serif, Helvetica, Arial, sans-serif;
 	font-weight: bold;
   color: #404040;
 }
@@ -259,14 +259,14 @@ ul.posts span {
 }
 
 .post p {
-  font: 1.1em serif, Helvetica, Arial, sans-serif;
+  font: 1.1em 'Ledger', serif, Helvetica, Arial, sans-serif;
   text-align: justify;
   color: #303030;
 	line-height: 1.5em;
 }
 
 .site h2 {
-  font: 1.5em serif, Helvetica, Arial, sans-serif;
+  font: 1.5em 'Ledger', serif, Helvetica, Arial, sans-serif;
   color: #404040;
 }
 
