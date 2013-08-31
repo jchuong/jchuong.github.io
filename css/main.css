@@ -73,12 +73,12 @@ ul.posts span {
 }
 
 #home h1 {
-  font: 1.5em 'Ledger', serif;
+  font: 1.5em 'Fenix', serif;
   color: #404040;
 }
 
 #home p {
-	font: 1em 'Ledger', serif;
+	font: 1em 'Fenix', serif;
 }
 /*****************************************************************************/
 /*
@@ -106,7 +106,7 @@ ul.posts span {
 }
 
 .site .header h1.title a {
-  font: 1.8em 'Ledger', serif;
+  font: 1.8em 'Open Sans', serif;
 	font-weight: bold;
   color: #404040;
 }
@@ -258,14 +258,14 @@ ul.posts span {
 }
 
 .post p {
-  font: 1.1em 'Ledger', serif;
+  font: 1.1em 'Fenix', serif;
   text-align: justify;
   color: #303030;
 	line-height: 1.5em;
 }
 
 .site h2 {
-  font: 1.5em 'Ledger', serif;
+  font: 1.5em 'Fenix', serif;
   color: #404040;
 }
 
