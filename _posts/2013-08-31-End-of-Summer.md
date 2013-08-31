@@ -13,7 +13,7 @@ I also wanted to try this out to see if the CSS was acceptable:
 {% highlight c++ %}
 int main(char* argv, int argc)
 {
-	std::cout << "Hello world!\n";
-	return 0;
+  std::cout << "Hello world!\n";
+  return 0;
 }
 {% endhighlight %}
