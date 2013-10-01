@@ -4,9 +4,7 @@ title: Fire Emblem AI Analysis
 tags: games
 ---
 
-Holy crackers, it's been almost a month since I last posted.  I really should get on top of blogging but school just started and things might get ramped up soon.
-
-In any case, this post is a quick and dirty analysis of how the AI *might* be implemented in *Fire Emblem: Awakening*.  Since I've been playing **a lot** of Fire Emblem Awakening recently, I've been observing the AI, and the topic was sparked up on Reddit so I decided to analyze it a bit further and how improvements might be made.
+This post is a quick and dirty analysis of how the AI *might* be implemented in *Fire Emblem: Awakening*.  Since I've been playing **a lot** of Fire Emblem Awakening recently, I've been observing the AI, and the topic was sparked up on Reddit so I decided to analyze it a bit further and how improvements might be made.
 
 # Prelude 
 I am not an AI expert, game design expert or work at *Intelligent Systems* or *Nintendo*.  I want to discuss my speculation of the implementation of the AI, possible decisions of the design, and potential improvements that might have made the game more challenging or fun.
