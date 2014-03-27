@@ -182,7 +182,6 @@ ul.posts span {
 /*
  * Navbar CSS
  */
-
 .container #navbar {
   position: fixed;
   bottom: 0;
@@ -195,7 +194,6 @@ ul.posts span {
   list-style-type: none;
   font-family: 'Open Sans', sans-serif;
   font-size: 1.3em;
-  text-align: center;
 }
 
 .container #navbar li {
@@ -207,7 +205,6 @@ ul.posts span {
   width: 100px;
   margin: 0;
   padding: 3px 10px;
-  text-align: center;
   text-decoration: none;
   color: #dddddd;
   background: #404040;
@@ -218,6 +215,7 @@ ul.posts span {
   background: #dddddd;
 }
 
+/* Don't show nav bar if device is not wide enough */
 @media (max-width: 640px)
 {
   .container #navbar {
