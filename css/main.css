@@ -23,12 +23,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  margin-bottom: 1em; 
+  margin-bottom: 1em;
 }
 
 p
 {
-	margin: 1em 0;
+  margin: 1em 0;
 }
 
 a         { color: #00a; }
@@ -78,7 +78,7 @@ ul.posts span {
 }
 
 #home p {
-	font: 1.1em 'Fenix', serif;
+  font: 1.1em 'Fenix', serif;
 }
 /*****************************************************************************/
 /*
@@ -90,7 +90,7 @@ ul.posts span {
   font: 1.4em 'Open Sans', sans-serif;
   text-align: justify;
   width: 70%;
-	max-width: 800px;
+  max-width: 800px;
   margin: 3em auto 2em;
   margin-top: 0.5em;
   line-height: 1.5em;
@@ -107,29 +107,29 @@ ul.posts span {
 
 .site .header h1.title a {
   font: 1.8em 'Open Sans', serif;
-	font-weight: bold;
+  font-weight: bold;
   color: #404040;
 }
 
 .site .header h1.title a:hover {
-	color: #404040;
-	text-decoration: underline;
+  color: #404040;
+  text-decoration: underline;
 }
 
 .site .header img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 @media (max-width: 640px)
 {
-	.site .header img {
-		display: none;
-	}
+  .site .header img {
+    display: none;
+  }
 }
 .site .meta {
   font-size: 0.7em;
   color: #999;
-	line-height: 0.7em;
+  line-height: 0.7em;
 }
 
 .site .footer {
@@ -176,7 +176,7 @@ ul.posts span {
 }
 
 .tags a:visited {
-	color: #707070;
+  color: #707070;
 }
 
 /*
@@ -184,45 +184,45 @@ ul.posts span {
  */
 
 .container #navbar {
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-	text-align: center;
-	background: #404040;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background: #404040;
 }
 
 .container #navbar ul {
-	list-style-type: none;
-	font-family: 'Open Sans', sans-serif;
-	font-size: 1.3em;
-	text-align: center;
+  list-style-type: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.3em;
+  text-align: center;
 }
 
 .container #navbar li {
-	display: inline;
+  display: inline;
 }
 
 .container #navbar li a {
-	display: inline-block;
-	width: 100px;
+  display: inline-block;
+  width: 100px;
   margin: 0;
-	padding: 3px 10px;
-	text-align: center;
-	text-decoration: none;
-	color: #dddddd;
-	background: #404040;
+  padding: 3px 10px;
+  text-align: center;
+  text-decoration: none;
+  color: #dddddd;
+  background: #404040;
 }
 
 .container #navbar li a:hover {
   color: #404040;
-	background: #dddddd;
+  background: #dddddd;
 }
 
 @media (max-width: 640px)
 {
-	.container #navbar {
-		display: none;
-	}
+  .container #navbar {
+    display: none;
+  }
 }
 
 /*
@@ -232,7 +232,7 @@ ul.posts span {
   font: 1.1em 'Fenix', serif;
   text-align: justify;
   color: #303030;
-	line-height: 1.5em;
+  line-height: 1.5em;
 }
 
 .post ul, .post ol {
@@ -265,21 +265,21 @@ ul.posts span {
 }
 
 /**
- *	Tweets
+ *  Tweets
  */
 #tweets .tweet {
   font: 1em 'Fenix', serif;
   text-align: left;
-	line-height: 1.2em;
-	margin: 0;
+  line-height: 1.2em;
+  margin: 0;
   padding-right: 5px;
   color: #3d3d3d;
 }
 
 #tweets .tweet a {
   font-size: 0.9em;
-	line-height: 1.3em;
-	margin: 0;
+  line-height: 1.3em;
+  margin: 0;
   padding-right: 5px;
 }
 
@@ -304,20 +304,20 @@ ul.posts span {
 }
 
 .timePosted {
-	font-size: 0.7em !important;
-	clear: left;
-	float: right;
-	color: #707070;
+  font-size: 0.7em !important;
+  clear: left;
+  float: right;
+  color: #707070;
   margin-bottom: 0;
 }
 
 .user, .user img, .user a > span {
-	float: left;
-	padding-right: 3px;
-	display: inline-block;
+  float: left;
+  padding-right: 3px;
+  display: inline-block;
 }
 
 .user a > span {
-	margin-left: 10px;
-	display: none;
+  margin-left: 10px;
+  display: none;
 }
