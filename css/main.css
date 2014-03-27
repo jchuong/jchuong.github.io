@@ -159,6 +159,11 @@ ul.posts span {
   border: 0;
 }
 
+.site h2 {
+  font: 1.5em 'Fenix', serif;
+  color: #404040;
+}
+
 /*
  *  Tags css
  */
@@ -219,32 +224,35 @@ ul.posts span {
 		display: none;
 	}
 }
-/*****************************************************************************/
-/*
-/* Posts
-/*
-/*****************************************************************************/
 
-/* standard */
-.post pre {
-  border: 1px solid #ddd;
-  background-color: #1c1c1c;
-  padding: 0 .4em;
+/*
+ * Posts
+ */
+.post p {
+  font: 1.1em 'Fenix', serif;
+  text-align: justify;
+  color: #303030;
+	line-height: 1.5em;
 }
 
 .post ul, .post ol {
   margin-left: 1.35em;
 }
 
-.post code {
-  border: 1px solid #ddd;
-  padding: 0 .2em;
+/* Code snippets */
+.post pre {
+  background-color: #1c1c1c;
+  padding: 0 .4em;
 }
 
 .post pre code {
   border: none;
 }
 
+.post code {
+  border: 1px solid #ddd;
+  padding: 0 .2em;
+}
 /* terminal */
 .post pre.terminal {
   border: 1px solid #000;
@@ -254,18 +262,6 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
-}
-
-.post p {
-  font: 1.1em 'Fenix', serif;
-  text-align: justify;
-  color: #303030;
-	line-height: 1.5em;
-}
-
-.site h2 {
-  font: 1.5em 'Fenix', serif;
-  color: #404040;
 }
 
 /**
