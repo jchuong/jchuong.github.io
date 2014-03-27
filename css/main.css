@@ -272,8 +272,9 @@ ul.posts span {
  *	Tweets
  */
 #tweets .tweet {
-  font-size: 1em;
-	line-height: 1.3em;
+  font: 1em 'Fenix', serif;
+  text-align: left;
+	line-height: 1.2em;
 	margin: 0;
   padding-right: 5px;
   color: #3d3d3d;
@@ -311,6 +312,7 @@ ul.posts span {
 	clear: left;
 	float: right;
 	color: #707070;
+  margin-bottom: 0;
 }
 
 .user, .user img, .user a > span {
