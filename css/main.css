@@ -80,12 +80,10 @@ ul.posts span {
 #home p {
   font: 1.1em 'Fenix', serif;
 }
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
 
+/**
+ * Site
+ */
 .site {
   font: 1.4em 'Open Sans', sans-serif;
   text-align: justify;
@@ -126,6 +124,7 @@ ul.posts span {
     display: none;
   }
 }
+
 .site .meta {
   font-size: 0.7em;
   color: #999;
