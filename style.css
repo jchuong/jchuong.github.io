@@ -1,0 +1,66 @@
+* {
+	font-family: 'Roboto Condensed', sans-serif;
+	-webkit-text-stroke: 0.2px
+}
+
+#content {
+	width: 80%;
+	max-width: 1000px;
+	text-align: justify;
+}
+
+#header {
+	text-align: center;
+    border-bottom: 1px solid black;
+}
+
+#header #name {
+	margin-bottom: 0;
+	font: 2em 'Roboto Condensed',sans-serif;
+}
+
+#header .title {
+	margin-top: 0;
+	margin-bottom: 0.2em;
+	font: 0.8em 'Roboto Condensed', sans-serif;
+}
+
+#header hr {
+	margin-top: 0;
+	width: 95%;
+}
+
+h2 {
+	margin-bottom: 0em;
+	margin-top: 0;
+}
+
+h3 {
+	margin-bottom: 0em;
+	margin-top: 0em;
+}
+
+.company {
+	margin-bottom: 0.2em;
+	margin-top: 0.2em;
+	float: left;
+}
+
+.date {
+	margin-bottom: 0.2em;
+	margin-top: 0.2em;
+	float: right;
+}
+
+.workList {
+	list-style-type: none;
+}
+
+ul {
+    list-style-type: square;
+    margin-top: 0.2em;
+    margin-bottom: 0.5em;
+}
+.workList .jobDescription {
+	list-style-type: square;
+}
