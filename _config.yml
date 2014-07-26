@@ -1,2 +1,3 @@
 name: Random Access of Thoughts
 pygments: true
+markdown: kramdown
