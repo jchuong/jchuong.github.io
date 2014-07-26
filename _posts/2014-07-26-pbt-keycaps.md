@@ -22,7 +22,7 @@ I bought a set of white keys for the standard keys, and a bag of purple modifier
 
 Here is what they look like:
 
-![Purple and White keycap]({{ site.url }}/assets/posts/pbt-keycaps-img/pbt-keycaps-img/keycaps-in-bag.jpg "1x size for each")
+![Purple and White keycap]({{ site.url }}/assets/posts/pbt-keycaps-img/keycaps-in-bag.jpg "1x size for each")
 
 Notice the grainy top of the keycaps and the four corners.  That is the texture and spherical shape I mentioned above.  The texture is not too rough on these keycaps.
 
