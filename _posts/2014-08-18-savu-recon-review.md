@@ -11,23 +11,39 @@ I'm back again with another peripheral review.  This time it's a double review w
 
 ## Table of Contents
 1. [Roccat Savu](#savu)
-  * Specifications
-  * Features
-  * Software
-  * Technical review
+  * [Specifications](#savu-spec)
+  * [Features](#savu-features)
+  * [Software](#savu-software)
+  * [Technical review](#savu-review)
 2. [CM Storm Recon](#recon)
-  * Specifications
-  * Features
-  * Software
-  * Technical review
+  * [Specifications](#recon-spec)
+  * [Features](#recon-features)
+  * [Software](#recon-software)
+  * [Technical review](#recon-software)
 3. [Comparison](#comparison)
 
 
 ## <a name="savu"/>Roccat Savu
 -----
 
+### <a name="savu-spec"/>Specifications
+
+### <a name="savu-features"/>Features
+
+### <a name="savu-software"/>Software
+
+### <a name="savu-review"/>Technical Review
+
 ## <a name="recon"/> CM Storm Recon
 -----
+
+### <a name="recon-spec"/>Specifications
+
+### <a name="recon-features"/>Features
+
+### <a name="recon-software"/>Software
+
+### <a name="recon-review"/>Technical Review
 
 ## <a name="comparison"/> Comparison
 -----
