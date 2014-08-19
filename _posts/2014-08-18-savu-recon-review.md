@@ -135,30 +135,30 @@ Actually I don't know much about the Omron switches.  There are a lot of switche
 
 * No-sweat side grips
 
-![Savu Left Grip]({{ site.url }}/assets/posts/savu-recon-review-img/savu-left.png)
+![Savu Left Grip]({{ site.url }}/assets/posts/savu-recon-review-img/savu-left.jpg)
 
 There is a small indent for your thumb to rest.
 
-![Savu Right Grip]({{ site.url }}/assets/posts/savu-recon-review-img/savu-right.png)
+![Savu Right Grip]({{ site.url }}/assets/posts/savu-recon-review-img/savu-right.jpg)
 
 The left and right side of the mouse has this light grain side grips which is supposed to help grip the mouse even when your hands are sweaty.  Don't worry about scraping your skin off your fingers though, it is pretty smooth still.  One big problem is the side grips easily wear out with usage.
 
 * ROCCAT mouse feet 
-![Savu Bottom]({{ site.url }}/assets/posts/savu-recon-review-img/savu-bottom.png)
+![Savu Bottom]({{ site.url }}/assets/posts/savu-recon-review-img/savu-bottom.jpg)
 
 ROCCAT has really nice mice feet, at least with my small experience with mice.  The Savu rocks two large feet on the bottom, in comparison with my CM Storm Recon's 3 feet.  The mouse is quite smooth on the mouse pad, smoother than the Recon.
 
 * Braided cable and USB
 
-![Savu USB]({{ site.url }}/assets/posts/savu-recon-review-img/savu-usb.png)
+![Savu USB]({{ site.url }}/assets/posts/savu-recon-review-img/savu-usb.jpg)
 
 I have already talked about the briaded cable being so nice. The Savu sports a fairly interesting USB housing which I particularily like.  As you can see it is this original shape, which makes it easily identifiable and is smaller than most USB housings.  This means that USB ports won't be blocked by this plug, which if you use as many USB devices, will notice. 
 
 * Lighting
 
-![Savu Blue Light]({{ site.url }}/assets/posts/savu-recon-review-img/savu-blue.png)
-![Savu Red Light]({{ site.url }}/assets/posts/savu-recon-review-img/savu-right.png)
-![Savu Purple Light]({{ site.url }}/assets/posts/savu-recon-review-img/savu-purple.png)
+![Savu Blue Light]({{ site.url }}/assets/posts/savu-recon-review-img/savu-blue.jpg)
+![Savu Red Light]({{ site.url }}/assets/posts/savu-recon-review-img/savu-right.jpg)
+![Savu Purple Light]({{ site.url }}/assets/posts/savu-recon-review-img/savu-purple.jpg)
 
 As before, I showed the [color flow](#color-flow) mode of the Savu.  Here are a couple sample colors for the Savu.  The lighting is simple and attractive, and colour flow is fun.  But again, if you're looking for fine color work or even *white*, you won't find it here.
 
