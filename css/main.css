@@ -237,6 +237,10 @@ ul.posts span {
   margin-left: 1.35em;
 }
 
+.post img {
+  max-width: 800px;
+}
+
 /* Code snippets */
 .post pre {
   background-color: #1c1c1c;
