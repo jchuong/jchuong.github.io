@@ -184,6 +184,11 @@ Now, with a lot of things, the more heft an object has, the more it feels like a
 
 All in all, I found the Savu to be my favourite mouse I have ever used.  I do own a Wheel Mouse Optical though, but I can't handle the (what feels like) 400DPI and poor conditions it has been through all these years.  As a sidenote, I think I can only recommend the Savu and Kone Pure Optical from ROCCAT, as it seems only those two have the ADNS-3090 sensor.
 
+As a final thought about the Savu software in particular:
+
+The software has not been updated since 2012, so it does not seem to support Windows 8.  The driver eats up something like 25% CPU time on my laptop with it running.  However, with Windows 8.1, I believe it has stopped doing that.  I am not entirely sure of the cause, and a few users have encountered it.  If you're on Windows 7 still, it will be fine; along with 8.1 it seems to be fine.  If you're having issues still, use the software to customize your mouse a little bit, then uninstall the software.  Remember that the Savu has onboard memory so your settings will still work after you uninstall the software.
+
+
 ## <a name="recon"/> CM Storm Recon
 -----
 
