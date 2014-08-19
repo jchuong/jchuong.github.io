@@ -81,7 +81,7 @@ Now we are in the advanced tab of the software.  Here, we can set individual sen
 
 Here's a webm of the color flow option, using webm (need a capable HTML5 browser):
 
-<video src="savu-color-flow.webm" controls>
+<video src="{{ site.url }}/assets/posts/savu-recon-review-img/savu-color-flow.webm" controls>
 </video>
 
 ### <a name="savu-review"/>Technical Review
