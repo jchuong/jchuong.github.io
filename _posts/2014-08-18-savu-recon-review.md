@@ -143,7 +143,8 @@ There is a small indent for your thumb to rest.
 
 The left and right side of the mouse has this light grain side grips which is supposed to help grip the mouse even when your hands are sweaty.  Don't worry about scraping your skin off your fingers though, it is pretty smooth still.  One big problem is the side grips easily wear out with usage.
 
-* ROCCAT mouse feet 
+* ROCCAT mouse feet
+
 ![Savu Bottom]({{ site.url }}/assets/posts/savu-recon-review-img/savu-bottom.jpg)
 
 ROCCAT has really nice mice feet, at least with my small experience with mice.  The Savu rocks two large feet on the bottom, in comparison with my CM Storm Recon's 3 feet.  The mouse is quite smooth on the mouse pad, smoother than the Recon.
@@ -157,7 +158,7 @@ I have already talked about the briaded cable being so nice. The Savu sports a f
 * Lighting
 
 ![Savu Blue Light]({{ site.url }}/assets/posts/savu-recon-review-img/savu-blue.jpg)
-![Savu Red Light]({{ site.url }}/assets/posts/savu-recon-review-img/savu-right.jpg)
+![Savu Red Light]({{ site.url }}/assets/posts/savu-recon-review-img/savu-red.jpg)
 ![Savu Purple Light]({{ site.url }}/assets/posts/savu-recon-review-img/savu-purple.jpg)
 
 As before, I showed the [color flow](#color-flow) mode of the Savu.  Here are a couple sample colors for the Savu.  The lighting is simple and attractive, and colour flow is fun.  But again, if you're looking for fine color work or even *white*, you won't find it here.
