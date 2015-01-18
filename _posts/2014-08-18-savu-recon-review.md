@@ -5,7 +5,7 @@ tags: peripherals review
 published: true
 ---
 
-![Savu and Recon Box]({{ site.url }}/assets/posts/savu-recon-review-img/box-comparision.jpg)
+![Savu and Recon Box]({{ site.url }}/assets/posts/savu-recon-review-img/box-comparison.jpg)
 
 ## Foreword
 -----
