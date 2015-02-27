@@ -249,6 +249,8 @@ ul.posts span {
 
 .post pre code {
   border: none;
+  word-wrap: normal;
+  overflow-x: auto;
 }
 
 .post code {
