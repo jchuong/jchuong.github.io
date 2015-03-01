@@ -249,7 +249,12 @@ ul.posts span {
 
 .post pre code {
   border: none;
-  word-wrap: normal;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o- pre-wrap;
+  white-space: pre-wrap;
+  word-wrap: break-word;
   overflow-x: auto;
 }
 
