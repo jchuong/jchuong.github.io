@@ -11,13 +11,13 @@ So let's define an entity for persistence (we're using JPA and Eclipselink, to a
 {% highlight java %}
 @Entity
 class Foo implements Serializable {
-	private final long serializeUID = 1L;
+  private final long serializeUID = 1L;
 
-	@Id @GeneratedValue
-	private long id;
+  @Id @GeneratedValue
+  private long id;
 
-	public long bar;
-	public long baz;
+  public long bar;
+  public long baz;
 }
 {% endhighlight %}
 
@@ -26,11 +26,11 @@ Simple. Now, what if we're developing a front-end that queries the database, and
 {% highlight java %}
 @Entity
 class Foo implements Serializable {
-	...
+  ...
 
-	public static final List<String> getMemberNames() {
-		return Arrays.asList(Foo.class.getFields()).stream().map(field -> field.getName()).collect(Collectors.toList());
-	}
+  public static final List<String> getMemberNames() {
+    return Arrays.asList(Foo.class.getFields()).stream().map(field -> field.getName()).collect(Collectors.toList());
+  }
 }
 {% endhighlight %}
 
@@ -41,15 +41,15 @@ However this would work:
 {% highlight java %}
 @Entity
 class Foo implements Serializable {
-	...
+  ...
 
-	public static final List<String> getMemberNames() {
-	    ArrayList<String> fields = new ArrayList<String>();
-	    for (Field field : Foo.class.getFields()) {
-	      fields.add(field.getName());
-	    }
-	    return fields;
-	}
+  public static final List<String> getMemberNames() {
+      ArrayList<String> fields = new ArrayList<String>();
+      for (Field field : Foo.class.getFields()) {
+        fields.add(field.getName());
+      }
+      return fields;
+  }
 }
 {% endhighlight %}
 
@@ -57,8 +57,8 @@ But that isn't as cool as using streams.  So this also works, but moving the ref
 
 {% highlight java %}
 class JpaDAO {
-	public static final List<String> getFooMemberNames() {
-		return Arrays.asList(Foo.class.getFields()).stream().map(field -> field.getName()).collect(Collectors.toList());
-	}
+  public static final List<String> getFooMemberNames() {
+    return Arrays.asList(Foo.class.getFields()).stream().map(field -> field.getName()).collect(Collectors.toList());
+  }
 }
 {% endhighlight %}
