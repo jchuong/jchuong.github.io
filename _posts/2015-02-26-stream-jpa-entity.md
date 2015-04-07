@@ -29,7 +29,8 @@ class Foo implements Serializable {
   ...
 
   public static final List<String> getMemberNames() {
-    return Arrays.asList(Foo.class.getFields()).stream().map(field -> field.getName()).collect(Collectors.toList());
+    return Arrays.asList(Foo.class.getFields()).
+      stream().map(field -> field.getName()).collect(Collectors.toList());
   }
 }
 {% endhighlight %}
@@ -44,11 +45,11 @@ class Foo implements Serializable {
   ...
 
   public static final List<String> getMemberNames() {
-      ArrayList<String> fields = new ArrayList<String>();
-      for (Field field : Foo.class.getFields()) {
-        fields.add(field.getName());
-      }
-      return fields;
+    ArrayList<String> fields = new ArrayList<String>();
+    for (Field field : Foo.class.getFields()) {
+      fields.add(field.getName());
+    }
+    return fields;
   }
 }
 {% endhighlight %}
@@ -58,7 +59,8 @@ But that isn't as cool as using streams.  So this also works, but moving the ref
 {% highlight java %}
 class JpaDAO {
   public static final List<String> getFooMemberNames() {
-    return Arrays.asList(Foo.class.getFields()).stream().map(field -> field.getName()).collect(Collectors.toList());
+    return Arrays.asList(Foo.class.getFields()).
+      stream().map(field -> field.getName()).collect(Collectors.toList());
   }
 }
 {% endhighlight %}
