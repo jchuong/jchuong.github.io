@@ -1,5 +1,4 @@
 name: Random Access of Thoughts
-pygments: true
 markdown: kramdown
 encoding: utf-8
 highlighter: pygments
