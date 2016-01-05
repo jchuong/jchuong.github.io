@@ -13,11 +13,13 @@
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Fenix">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans">
 
-<div class="container">
+<header>
   <div class="header">
-    <a href="/"><img src="/banner.jpg"></a>
+    <a id="blog-banner" href="/"><h1>::James->Blog()</h1></a>
   </div>
+</header>
 
+<div id="container">
   <div class="site">
     {{ content }}
     <div class="footer">
@@ -35,14 +37,14 @@
       </div> <!-- contact links -->
     </div> <!-- footer -->
   </div> <!-- site -->
-
-  <div id="navbar">
+  <nav id="navbar">
     <ul>
+      <li>Links</li>
       <li><a href="/">Home</a>
       <li><a href="/archive">Archive</a>
       <li><a href="/tags">Tags</a>
       <li><a href="//www.github.com/jchuong">Github</a>
       <li><a href="/resume.html">Resume</a>
     </ul>
-  </div> <!-- navbar -->
-</div> <!-- /container -->
+  </nav> <!-- navbar -->
+</div>
