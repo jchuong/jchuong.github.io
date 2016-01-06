@@ -3,41 +3,11 @@
 /* Common
 /*
 /*****************************************************************************/
-/* Global Reset */
-* {
-  margin: 0;
-  padding: 0;
-  -webkit-text-stroke: 0.2px;
-}
-
-html, body { height: 100%; }
-
 body {
   background-color: #FFF;
-  font: 1.5em 'Open Sans', sans-serif;
+  font: 1em 'Open Sans', sans-serif;
   font-size: small;
   text-align: center;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
-}
-
-h1 {
-  margin-bottom: 1em;
-}
-
-p {
-  margin: 1em 0;
-}
-
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
-
-table {
-  font-size: inherit;
-  font: 100%;
 }
 
 /*****************************************************************************/
@@ -84,91 +54,43 @@ ul.posts span {
 /**
  * Site
  */
-.site {
-  font: 1.4em 'Open Sans', sans-serif;
-  text-align: justify;
-  width: 70%;
-  max-width: 80%;
-  margin: 3em auto 2em;
-  margin-top: 0.5em;
-  line-height: 1.5em;
+#container {
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 90%;
 }
 
-.site .header a {
-  font-weight: bold;
+.header h1 a {
+  font: bold 1.5em 'Open Sans', serif;
   text-decoration: none;
-}
-
-.site .header h1.title {
+  color: #404040;
   margin-bottom: 2em;
 }
 
-.site .header h1.title a {
-  font: 1.8em 'Open Sans', serif;
-  font-weight: bold;
-  color: #404040;
-}
-
-.site .header h1.title a:hover {
-  color: #404040;
-  text-decoration: underline;
-}
-
-.header img {
-  max-width: 100%;
-  margin: auto;
-}
-
-@media (max-width: 640px)
-{
-  .header img {
-    display: none;
-  }
-}
-
-.site .meta {
-  font-size: 0.7em;
-  color: #999;
-  line-height: 0.7em;
+.site {
+  float: right;
+  font: 1.4em 'Open Sans', sans-serif;
+  text-align: justify;
+  width: 80%;
 }
 
 .site .footer {
-  font-size: 80%;
-  color: #666;
   border-top: 4px solid #ddd;
-  margin-top: 2em;
+  color: #666;
+  font-size: 0.8em;
+  margin: 2em 0;
   overflow: hidden;
-}
-
-.site .footer .contact {
-  float: left;
-  margin-right: 3em;
 }
 
 .site .footer .contact a {
   color: #8085C1;
 }
 
-.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.site .footer .rss img {
-  border: 0;
-}
-
-.site h2 {
-  font: 1.5em 'Fenix', serif;
-  color: #404040;
-}
-
 /*
  *  Tags css
  */
 .tags {
-   font: 0.7em 'Open Sans', sans-serif;
+  font: 0.7em 'Open Sans', sans-serif;
 }
 
 .tags a {
@@ -182,44 +104,41 @@ ul.posts span {
 /*
  * Navbar CSS
  */
-.container #navbar {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  text-align: center;
-  background: #404040;
+#navbar {
+  display: block;
+  float: left;
+  width: 170px;
 }
 
-.container #navbar ul {
+#navbar ul {
+  font: 1.3em 'Open Sans', sans-serif;
   list-style-type: none;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 1.3em;
+  text-align: left;
 }
 
-.container #navbar li {
-  display: inline;
+#navbar h4 {
+  font: 1.2em 'Open Sans', sans-serif;
+  margin: 0.2em 0;
+  padding-top: 0.3em;
 }
 
-.container #navbar li a {
+#navbar li a {
   display: inline-block;
-  width: 100px;
-  margin: 0;
-  padding: 3px 10px;
   text-decoration: none;
-  color: #dddddd;
-  background: #404040;
-}
-
-.container #navbar li a:hover {
-  color: #404040;
-  background: #dddddd;
 }
 
 /* Don't show nav bar if device is not wide enough */
-@media (max-width: 640px)
+@media (max-width: 1000px)
 {
-  .container #navbar {
+  #navbar {
     display: none;
+    float:none;
+  }
+
+  .site {
+    float: none;
+    margin: auto;
+    width: auto;
   }
 }
 
@@ -227,9 +146,8 @@ ul.posts span {
  * Posts
  */
 .post p {
-  font: 1.1em 'Fenix', serif;
-  text-align: justify;
   color: #303030;
+  font: 1.1em 'Fenix', serif;
   line-height: 1.5em;
 }
 
@@ -238,7 +156,7 @@ ul.posts span {
 }
 
 .post img {
-  max-width: 800px;
+  max-width: 100%;
 }
 
 /* Code snippets */
@@ -249,13 +167,13 @@ ul.posts span {
 
 .post pre code {
   border: none;
+  overflow-x: auto;
   white-space: pre-wrap;
   white-space: -moz-pre-wrap;
   white-space: -pre-wrap;
   white-space: -o- pre-wrap;
   white-space: pre-wrap;
   word-wrap: break-word;
-  overflow-x: auto;
 }
 
 .post code {
@@ -281,13 +199,14 @@ ul.posts span {
   margin-left: auto;
   margin-right: auto;
 }
+
 #tweets .tweet {
+  color: #3d3d3d;
   font: 1em 'Fenix', serif;
-  text-align: left;
   line-height: 1.2em;
   margin: 0;
   padding-right: 5px;
-  color: #3d3d3d;
+  text-align: left;
 }
 
 #tweets .tweet a {
@@ -306,10 +225,10 @@ ul.posts span {
 }
 
 #tweets ul li {
-  list-style: none;
-  overflow: hidden;
   border: 1px solid #dedede;
+  list-style: none;
   margin: 5px;
+  overflow: hidden;
   padding: 5px;
 }
 
@@ -318,17 +237,17 @@ ul.posts span {
 }
 
 .timePosted {
-  font-size: 0.7em !important;
   clear: left;
-  float: right;
   color: #707070;
+  float: right;
+  font-size: 0.7em !important;
   margin-bottom: 0;
 }
 
 .user, .user img, .user a > span {
+  display: inline-block;
   float: left;
   padding-right: 3px;
-  display: inline-block;
 }
 
 .user a > span {
