@@ -15,13 +15,8 @@ body {
 /* Home
 /*
 /*****************************************************************************/
-ul.posts {
+.posts {
   list-style-type: none;
-  margin-bottom: 2em;
-}
-
-ul.posts li {
-  line-height: 1.5em;
 }
 
 ul.posts li a:link {
