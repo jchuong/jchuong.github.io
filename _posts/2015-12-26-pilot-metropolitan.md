@@ -40,3 +40,5 @@ The nib is nice and smooth, though this is something you need to feel yourself i
 The Pilot Metropolitan is a very high value pen at a low price point.  For under $15 before shipping, you get a brass body pen, with a converter (value of a couple dollars), a fine nib (good for cheap paper, small writing) and a consistently good writer.  On top of that, the Metropolitan shares the same feed and nib size as the other cheap Pilot fountain pen lines, notably the 78G [Stubby Broad], Penmanshipi [Extra-Fine], Plumix [1mm italic/stub], Kakuno, and Prera (some more include the Knight, Lucina, Cocoon [Japanese Metropolitan]) which allows one to swap more interesting nibs into the nicer body of the Metropolitan.  
 
 This makes the Metropolitan one of the best starter fountain pens which will always have a use even when the new fountain pen collector moves onto more expensive pens.
+
+*Disclaimer*: I purchased this pen with my own money and was not compenstated for this review.
