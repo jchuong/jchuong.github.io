@@ -41,4 +41,4 @@ The Pilot Metropolitan is a very high value pen at a low price point.  For under
 
 This makes the Metropolitan one of the best starter fountain pens which will always have a use even when the new fountain pen collector moves onto more expensive pens.
 
-*Disclaimer*: I purchased this pen with my own money and was not compenstated for this review.
+*Disclaimer*: I purchased this pen with my own money and was not compensated for this review.
