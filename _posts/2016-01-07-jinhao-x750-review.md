@@ -48,6 +48,7 @@ The medium nib of the x750 is surprisingly smooth.  Of course, your mileage my v
 
 *Bonus*: The Goulet Pens 1.1mm stub is a pretty neat nib if you have only used regular nibs.  It is fairly smooth, though as a stub there can be a little catch due to the shape of the nib.  The tines are quite long which means sometimes incorrectly writing with it will cause misalignment of the tines.  Otherwise, it is a nice writing experience, though I couldn't use it for normal writing due to my handwriting being too small for it to be practical.  Also, it lays down a lot of ink on the page, making it hard to use on cheap paper.
 
+The ink used in the writing sample is Noodler's Black Swan in English Roses.
 ![Writing sample](/assets/posts/jinhao-x750-review-img/writing-sample.jpg)
 
 ## Misc and Final Thoughts
