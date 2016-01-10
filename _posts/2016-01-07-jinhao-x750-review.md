@@ -3,6 +3,7 @@ layout: post
 title: Jinhao X750 Review, Bonus Goulet 1.1mm Stub Nib
 tags: fountainpens review
 published: true
+comments: true
 ---
 
 For my second review, the Jinhao X750!  This was not my second pen, but rather a pen I am letting go to another home, so I had to review it before I sent it off.  This is an interesting pen, similar to the Pilot Metropolitan, it offers a lot of value for your money.

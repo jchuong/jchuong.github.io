@@ -3,6 +3,7 @@ layout: post
 title: Pilot Metropolitan Review
 tags: fountainpens review
 published: true
+comments: true
 ---
 
 Although I first received my first fountain pens in 2014,  2015 has been the year I have really gotten into the fountain pen hobby.  And what an addiction it turned out to be!  I am still really interested in mechanical keyboards but with my future move out, it makes a lot more sense to be carrying a bunch of fountain pens than a bunch of mechanical keyboards.  And so begins my reviews of my fountain pens.
