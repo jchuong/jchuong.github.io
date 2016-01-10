@@ -5,7 +5,7 @@ tags: games
 published: true
 ---
 
-![Monster Hunter 4 Ultimate Logo]({{site.url}}/assets/posts/monster-hunter-goty/logo.jpg)
+![Monster Hunter 4 Ultimate Logo](/assets/posts/monster-hunter-goty/logo.jpg)
 
 After a dismal year for games during 2014, it's time to get back on the hype train for another game!
 I have pre-ordered both the collector's edition and the limited edition New 3DS for Monster Hunter 4 Ultimate,
