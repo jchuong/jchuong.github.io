@@ -19,7 +19,7 @@ The X750 comes with no packaging other than a plastic sleeve, though I'm not eve
 ![x750 vs Metropolitan](/assets/posts/jinhao-x750-review-img/x750-w-metro.jpg)
 The X750 is a big pen, and quite hefty at over 30g with the cap on because of the brass body construction.  The length is actually comparable to the Pilot Metropolitan when capped, but the X750 is longer uncapped.  Furthermore, the X750 doesn't taper off on the ends, thus giving more material for the weight.
 
-![Jinhao X750](/assets/posts/jinhao-x750-review-img/converter.jpg)
+![Jinhao X750 included standard international converter](/assets/posts/jinhao-x750-review-img/converter.jpg)
 
 The X750 uses standard international cartridge converters, and even comes with one pre-installed in the pen.  However, the X750 does not come with cartridges like other cartridge/converter pens, so if this is your first pen, you better get some ink with it.  The converter is not anything special, completely plastic with JINHAO embossed in the knob.  With this converter, I couldn't figure out how to disassemble it like many other piston converters.
 
