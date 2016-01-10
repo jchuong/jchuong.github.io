@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pilot Metropolitan Review
+description: A quick review of the Pilot Metropolitan with medium steel nib
 tags: fountainpens review
 published: true
 comments: true

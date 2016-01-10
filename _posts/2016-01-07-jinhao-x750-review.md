@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jinhao X750 Review, Bonus Goulet 1.1mm Stub Nib
+description: A quick review of the Jinhao X750 with both the stock steel medium nib and the Goulet Pens JoWo Steel 1.1mm stub nib.
 tags: fountainpens review
 published: true
 comments: true
