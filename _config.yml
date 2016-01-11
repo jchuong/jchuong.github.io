@@ -1,7 +1,10 @@
-name: Random Access of Thoughts
+name: ::James->Blog()
+description: A place where I, James Chuong, yell into the void known as the internet.  I blog about techy things and review things I buy.
+author: James Chuong
 markdown: kramdown
 encoding: utf-8
 highlighter: pygments
 url: https://jchuong.github.io
 gems:
   - jekyll-sitemap
+  - jekyll-feed
