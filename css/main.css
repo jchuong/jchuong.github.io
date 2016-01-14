@@ -8,6 +8,7 @@ body {
   font: 1em 'Open Sans', sans-serif;
   font-size: small;
   text-align: center;
+  text-rendering: optimizeLegibility;
 }
 
 a {
@@ -126,7 +127,7 @@ a:hover {
  */
 .post-title {
   font: bold 1.8em 'Open Sans', sans-serif;
-  margin: 0;
+  text-indent: -3px;
 }
 
 .post-title a {
@@ -135,6 +136,13 @@ a:hover {
 
 .post-title a:hover {
   color: #5AF; 
+}
+
+.post hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 .post p {

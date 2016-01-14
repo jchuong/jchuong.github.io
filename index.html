@@ -13,6 +13,9 @@ description: Welcome to the homepage of my blog, where I yell on my digital soap
     </p>
     {{ post.excerpt }}
     <p style="text-align: right"><a href="{{ post.url }}">Read more & discussion</a></p>
+    {% unless forloop.last %}
+    <hr>
+    {% endunless %}
   </div>
 {% endfor %}
 
