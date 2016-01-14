@@ -11,3 +11,4 @@ gems:
   - jekyll-sitemap
 paginate: 5
 paginate_path: "/page/:num/"
+permalink: "/:title"
