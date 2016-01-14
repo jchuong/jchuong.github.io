@@ -2,7 +2,7 @@
 layout: post
 title: Site Changes, Comments Added and Reasoning
 description: A quick update on my blog, and why I am hesitant on adding commenting
-tags: announcements
+tags: announcement
 published: true
 comments: true
 ---
