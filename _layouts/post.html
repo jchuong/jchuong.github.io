@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }}</h2> 
+<div class="post">
+<h1 class="post-title">{{ page.title }}</h1>
 <p class="meta">Written on: {{ page.date | date_to_string }}</p>
 <p class="tags">Tags: 
 	{% for tag in page.tags %}
 		<span>{{ tag }}</span>
 	{% endfor %} </p>
-<div class="post">
 {{ content }}
 </div>
 {% if page.comments %}

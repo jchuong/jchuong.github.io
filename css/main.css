@@ -10,46 +10,46 @@ body {
   text-align: center;
 }
 
+a {
+  color: #5AF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #222;
+}
+
 /*****************************************************************************/
 /*
-/* Home
+/* Archive
 /*
 /*****************************************************************************/
 .posts {
   list-style-type: none;
 }
 
-ul.posts li a:link {
+.posts li a:link {
   color: #303030;
 }
 
-ul.posts li a:visited {
+.posts li a:visited {
   color: #303030;
 }
 
-ul.posts li a:hover {
-  color: #435175;
+.posts li a:hover {
+  color: #5AF;
 }
 
-ul.posts span {
+.posts span {
   color: #777;
-  font-family: monospace;
-  font-size: 1em;
-}
-
-#home h1 {
-  font: 1.5em 'Fenix', serif;
-  color: #404040;
-}
-
-#home p {
-  font: 1.1em 'Fenix', serif;
+  font: 0.8em 'Inconsolata', monospace;
 }
 
 /**
  * Site
  */
 #container {
+  color: #444;
   margin: 0 auto;
   max-width: 1200px;
   width: 90%;
@@ -66,7 +66,7 @@ ul.posts span {
   float: right;
   font: 1.4em 'Open Sans', sans-serif;
   text-align: justify;
-  width: 80%;
+  width: 85%;
 }
 
 .site .footer {
@@ -82,27 +82,11 @@ ul.posts span {
 }
 
 /*
- *  Tags css
- */
-.tags {
-  font: 0.7em 'Open Sans', sans-serif;
-}
-
-.tags a {
-  color: #707070;
-}
-
-.tags a:visited {
-  color: #707070;
-}
-
-/*
  * Navbar CSS
  */
 #navbar {
-  display: block;
   float: left;
-  width: 170px;
+  width: 15%;
 }
 
 #navbar ul {
@@ -140,10 +124,28 @@ ul.posts span {
 /*
  * Posts
  */
+.post-title {
+  font: bold 1.8em 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+.post-title a {
+  color: #333; 
+}
+
+.post-title a:hover {
+  color: #5AF; 
+}
+
 .post p {
   color: #303030;
-  font: 1.1em 'Fenix', serif;
+  font: 1em 'Open Sans', serif;
   line-height: 1.5em;
+}
+
+.post .meta {
+  font: 0.8em 'Inconsolata', monospace;
+  margin: 0;
 }
 
 .post ul, .post ol {
@@ -186,66 +188,21 @@ ul.posts span {
   background-color: #333;
 }
 
-/**
- *  Tweets
+/*
+ *  Tags css
  */
-
-#tweets {
-  margin-left: auto;
-  margin-right: auto;
+.post .tags {
+  font: 0.7em 'Inconsolata', monospace;
 }
 
-#tweets .tweet {
-  color: #3d3d3d;
-  font: 1em 'Fenix', serif;
-  line-height: 1.2em;
-  margin: 0;
-  padding-right: 5px;
-  text-align: left;
-}
-
-#tweets .tweet a {
-  font-size: 0.9em;
-  line-height: 1.3em;
-  margin: 0;
-  padding-right: 5px;
-}
-
-#tweets a, a:visited {
-  color: #427fed;
-}
-
-#tweets a:hover {
-  color: #82afff;
-}
-
-#tweets ul li {
-  border: 1px solid #dedede;
-  list-style: none;
-  margin: 5px;
-  overflow: hidden;
-  padding: 5px;
-}
-
-#tweets ul li:hover {
-  background-color: #f0f3fb;
-}
-
-.timePosted {
-  clear: left;
+.post .tags a {
   color: #707070;
-  float: right;
-  font-size: 0.7em !important;
-  margin-bottom: 0;
 }
 
-.user, .user img, .user a > span {
-  display: inline-block;
-  float: left;
-  padding-right: 3px;
+.post .tags a:visited {
+  color: #707070;
 }
 
-.user a > span {
-  margin-left: 10px;
-  display: none;
+.pagination {
+  text-align: center;
 }
