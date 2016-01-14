@@ -10,6 +10,14 @@ layout: default
 	{% endfor %} </p>
 {{ content }}
 </div>
+<div class="post-nav">
+  {% if page.previous %}
+    <a href="{{page.previous.url}}" class="prev">&#8592 {{ page.previous.title }}</a>
+  {% endif %}
+  {% if page.next %}
+    <a href="{{page.next.url}}" class="next">{{ page.next.title }} &#8594</a>
+  {% endif %}
+</div>
 {% if page.comments %}
   {% include disqus.html %}
 {% endif %}
