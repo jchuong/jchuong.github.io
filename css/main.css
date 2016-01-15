@@ -67,7 +67,7 @@ a:hover {
   float: right;
   font: 1.4em 'Open Sans', sans-serif;
   text-align: justify;
-  width: 85%;
+  width: 80%;
 }
 
 .site .footer {
@@ -87,7 +87,7 @@ a:hover {
  */
 #navbar {
   float: left;
-  width: 15%;
+  width: 17%;
 }
 
 #navbar ul {
@@ -139,7 +139,7 @@ a:hover {
   color: #5AF; 
 }
 
-.post hr {
+hr {
   border: 0;
   height: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
