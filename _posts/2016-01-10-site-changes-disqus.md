@@ -11,7 +11,7 @@ Other than my one reader, I don't think there is anyone actually visiting my blo
 
 ### Changes and Philosophy
 
-What changed?  Well, I changed the bottom navbar to a non-fixed side bar.  I may end up changing to being fixed again but for now it is simple and unobtrusive for the reader.  In fact, my philosophy for this blog is to be minimalistic, and to be about the content first.  Thus, you are presented with the option to choose what you want to read, and read that one blog post.  Of course, scrolling back up to choose another post to read will be annoying to do, which means a chroniclized paginated blog layout would be ideal. This is in consideration still.
+What changed?  Well, I changed the bottom navbar to a non-fixed side bar.  I may end up changing to being fixed again but for now it is simple and unobtrusive for the reader.  In fact, my philosophy for this blog is to be minimalistic, and to be about the content first.  Thus, you are presented with the option to choose what you want to read, and read that one blog post.  Of course, scrolling back up to choose another post to read will be annoying to do, which means a chronicalized paginated blog layout would be ideal. This is in consideration still.
 
 Furthermore, under the hood I cleaned up some of the HTML and CSS to optimize bytes and clean code style.  This is of no real concern to most people, in fact probably doesn't change anything much.  I am not minifying anything either so the savings are tiny -- fractions of modern connection speeds.  But that doesn't mean I am (somewhat) committed to making the website blazing fast on slower connections.  Somewhat being my recent photos aren't exactly tiny but a respectable size (under 1MB, often 700KB range).  
 
