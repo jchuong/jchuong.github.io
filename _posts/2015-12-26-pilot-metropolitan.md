@@ -19,7 +19,7 @@ The Pilot Metropolitan comes in a simple plastic case with a transparent window 
 ## Looks
 
 ![Pilot Metropolitan Body](/assets/posts/pilot-metro-review-img/body.jpg)
-The Metropolitan comes in a number of finishes, with 3 different collections, each collection with their own colours and patterns.  The one I got is the plain and simple black finish with no pattern on the plastic section.  Fairly simple and understated, though I have some regrets getting such a plain pen, let alone two of them, which makes picking the right one harder.
+The Metropolitan comes in a number of finishes, with 3 different collections, each collection with their own colours and patterns. The [classic collection](http://pilotpen.us/categories/fountain-pens/mr-metropolitan-fountain-pen/) comes in black, gold and silver; [Animal Collection](http://pilotpen.us/categories/fountain-pens/mr-animal-fountain/) that comes in white, matte gold and purple in addition to the classic colours; and the new [Retro Pop Collection](http://pilotpen.us/categories/fountain-pens/mr-retro-pop/) with colours and motifs from the 60s and 70s. The one I got is the plain and simple black finish with no pattern on the plastic section. Fairly simple and understated, though I have some regrets getting such a plain pen, let alone two of them, which makes picking the right one harder.
 
 The body is made of brass, giving the Metropolitan a little more heft but not so much to fatigue you while writing.  The body a simple cigar or torpedo shape, which gives it the classic look but the cap being flush on the body keeps the profile sleek and modern.
 
@@ -43,4 +43,6 @@ The Pilot Metropolitan is a very high value pen at a low price point.  For under
 
 This makes the Metropolitan one of the best starter fountain pens which will always have a use even when the new fountain pen collector moves onto more expensive pens.
 
-*Disclaimer*: I purchased this pen with my own money and was not compensated for this review.
+I bought a two-pack of Metropolitans from [Massdrop](//massdrop.com), both in black (a bad idea) and in fine and medium nib. I lost the fine nib embarassingly but at least now I will always get the right pen.
+
+*Disclaimer*: I purchased this pen with my own money and was not compensated for this review.  There are no referral links in this page.
