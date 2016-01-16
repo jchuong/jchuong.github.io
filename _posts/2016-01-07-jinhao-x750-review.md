@@ -15,7 +15,7 @@ Jinhao is a Chinese brand pen with the logo of a horse chariot (see later images
 
 ## Features
 
-The X750 comes with no packaging other than a plastic sleeve, though I'm not even sure if that is the official packaging.  I have no idea if Jinhao actually has official resellers of its products (I bought my pen from Goulet, but I have no idea if Goulet or JetPens contacts them directly).  The X750 comes in many finishes:  black, matte black, gold, silver, checkered, "ice flower red" (red and black) and Night Sky (black with sparkles).  The X750 I have is the Night Sky finish (I also use "Shimmering Sands", it is sometimes called that).
+The X750 comes with no packaging other than a plastic sleeve, though I'm not even sure if that is the official packaging.  I have no idea if Jinhao actually has official resellers of its products (I bought my pen from [Goulet Pens](http://www.gouletpens.com/jinhao-x750-fountain-pen-shimmering-sands-medium/p/JIN-X750-Sands), but I have no idea if Goulet or JetPens contacts them directly).  The X750 comes in many finishes:  black, matte black, gold, silver, checkered, "ice flower red" (red and black) and Night Sky (black with sparkles).  The X750 I have is the Night Sky finish (I also use "Shimmering Sands", it is sometimes called that).
 
 ![x750 vs Metropolitan](/assets/posts/jinhao-x750-review-img/x750-w-metro.jpg)
 The X750 is a big pen, and quite hefty at over 30g with the cap on because of the brass body construction.  The length is actually comparable to the Pilot Metropolitan when capped, but the X750 is longer uncapped.  Furthermore, the X750 doesn't taper off on the ends, thus giving more material for the weight.
@@ -46,13 +46,13 @@ The medium nib of the x750 is surprisingly smooth.  Of course, your mileage my v
 
 ![Writing closeup](/assets/posts/jinhao-x750-review-img/writing-closeup.jpg)
 
-*Bonus*: The Goulet Pens 1.1mm stub is a pretty neat nib if you have only used regular nibs.  It is fairly smooth, though as a stub there can be a little catch due to the shape of the nib.  The tines are quite long which means sometimes incorrectly writing with it will cause misalignment of the tines.  Otherwise, it is a nice writing experience, though I couldn't use it for normal writing due to my handwriting being too small for it to be practical.  Also, it lays down a lot of ink on the page, making it hard to use on cheap paper.
+*Bonus*: The [Goulet Pens 1.1mm stub](http://www.gouletpens.com/goulet-6-polished-steel-nib-1.1mm-stub/p/GPC-Nib6-PS-11) is a pretty neat nib if you have only used regular nibs.  It is fairly smooth, though as a stub there can be a little catch due to the shape of the nib.  The tines are quite long which means sometimes incorrectly writing with it will cause misalignment of the tines.  Otherwise, it is a nice writing experience, though I couldn't use it for normal writing due to my handwriting being too small for it to be practical.  Also, it lays down a lot of ink on the page, making it hard to use on cheap paper.
 
 The ink used in the writing sample is Noodler's Black Swan in English Roses.
 ![Writing sample](/assets/posts/jinhao-x750-review-img/writing-sample.jpg)
 
 ## Misc and Final Thoughts
 
-The Jinhao X750 is a surprisingly good pen for the amount you pay for it.  There is a lack of attention to detail but really if you need a pen that writes for under $10 (even as low as 99 cents on eBay occassionially), you get a decent pen that can swap parts out for a quite a nice writer.  This makes the X750 to good pen to own if you're interested in slight tinkering, or if you like big pens to be used as a beater pen since it costs nearly nothing and is built fairly strong with the metal body.
+The Jinhao X750 is a surprisingly good pen for the amount you pay for it.  There is a lack of attention to detail but really if you need a pen that writes for under $10 (even as low as 99 cents on eBay occasionally), you get a decent pen that can swap parts out for a quite a nice writer.  This makes the X750 to good pen to own if you're interested in slight tinkering, or if you like big pens to be used as a beater pen since it costs nearly nothing and is built fairly strong with the metal body.
 
-*Disclaimer*: I purchased this pen with my own money and was not compensated for this review.
+*Disclaimer*: I purchased this pen with my own money and was not compensated for this review.  There are no referral links in this review.
