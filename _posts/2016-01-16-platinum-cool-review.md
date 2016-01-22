@@ -92,4 +92,8 @@ The direct competitor to the Cool is Pilot's Prera, which comes in multiple colo
 
 So in all honesty, the competition is so fierce at both price ranges, the Platinum Cool's only interesting feature is the springy nib.  It's a decent pen, but I don't see why I wouldn't get any of the other pens over the Cool, as it doesn't really have a niche for its usage.  I don't see myself keeping this pen, as the money would be better spent on that my collection is lacking.
 
+Finally, I also had a lot of trouble with cleaning the feed out.  The pen is easily disassembled but cleaning the feed from any leftover ink or stains, completely out is an adventure not worth pursuing.  It would probably be easier with an ultrasonic cleaner (in fact if I owned one I wouldn't hate it so much), but the feed is made in a way that the bottom side of the feed gets much less flow through it, thus ink isn't flushed out that bottom half.  At least that is my thought, but in practice no matter how I flushed it would not get the ink out.  I found that long soaks would eventually just dissolve the ink but it's *slow*.  If you continually ink the same ink, or don't really care about very small discolorations, you will not mind.  I like it squeaky clean, so I must clean it.
+
+
+**Final Verdict**: Not cool enough to stay.
 *Disclaimer*: I purchased this pen with my own money and was not compensated for this review.  There are no referral links in this review.
