@@ -13,7 +13,7 @@ description: Welcome to the homepage of my blog, where I yell on my digital soap
     </p>
     <p class="tags">Tags:
       {% for tag in post.tags %}
-        <span>{{ tag }}</span>
+        <span><a href="/tags/#{{ tag }}">{{ tag }}</a></span>
       {% endfor %}
     {{ post.excerpt }}
     <p style="text-align: right"><a href="{{ post.url }}">Read more & discussion</a></p>
