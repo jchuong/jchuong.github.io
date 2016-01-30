@@ -161,6 +161,11 @@ hr {
   max-width: 100%;
 }
 
+figcaption {
+  font: 0.7em 'Open Sans', sans-serif;
+  text-align: center;
+}
+
 /* Code snippets */
 .post pre {
   background-color: #1c1c1c;
