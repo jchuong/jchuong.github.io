@@ -3,7 +3,7 @@ description: A place where I, James Chuong, yell into the void known as the inte
 author: James Chuong
 markdown: kramdown
 encoding: utf-8
-highlighter: pygments
+highlighter: rouge
 url: https://jchuong.github.io
 gems:
   - jekyll-feed
