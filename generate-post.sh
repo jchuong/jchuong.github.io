@@ -13,6 +13,8 @@ echo "\
 ---
 layout: post
 title: $TITLE
+description:
 tags:
 published: false
+comments: false
 ---" > $FILE
