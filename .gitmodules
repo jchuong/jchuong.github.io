@@ -1,0 +1,4 @@
+[submodule "resume"]
+	path = resume
+	url = https://github.com/jchuong/html-resume.git
+	branch = jchuong
