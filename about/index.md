@@ -9,7 +9,7 @@ Hey that's me in San Francisco September 2014!
 </p>
 The author of this blog is me, James Chuong, often shortened to jchuong. Graduated with Bachelor's of Computer Science from University of Waterloo 2016. I like lots of techie things: computers, tech, mechanical keyboards, audio equipment, computer mice, gaming, eSports, coding, and recently fountain pens.
 
-Currently working with [Instart Logic](//instartlogic.com).
+Currently working with Automation Anywhere.
 
 ## The Blog
 
